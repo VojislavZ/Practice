@@ -1,4 +1,3 @@
-# Practice
-practicing github
+# Hello World!
 
-Hello, my name is Vojislav and I am 29 years old.
+My name is Vojislav and I am 29 years old.
